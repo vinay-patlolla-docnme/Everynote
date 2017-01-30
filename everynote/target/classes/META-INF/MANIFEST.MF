@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: everynote
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: docnme
+Specification-Title: everynote
+Implementation-Vendor-Id: com.everynote
+Build-Jdk: 1.8.0_111
+Specification-Version: 1.0-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
